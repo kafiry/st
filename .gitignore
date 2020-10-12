@@ -54,6 +54,8 @@ dkms.conf
 # patch
 *.orig
 *.rej
+*.diff
+*.patch
 patches/*
 patches
 
