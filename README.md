@@ -4,6 +4,7 @@
 - [st-scrollback-20200419-72e3f6c.diff](https://st.suckless.org/patches/scrollback/st-scrollback-20200419-72e3f6c.diff)
 - [st-scrollback-mouse-20191024-a2c479c.diff](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-20191024-a2c479c.diff)
 - [st-vertcenter-20180320-6ac8c8a.diff](https://st.suckless.org/patches/vertcenter/st-vertcenter-20180320-6ac8c8a.diff)
+- [st-anysize-0.8.1](https://st.suckless.org/patches/anysize/st-anysize-0.8.1.diff)
 
 **Font:**
 SauceCodePro Nerd Font
